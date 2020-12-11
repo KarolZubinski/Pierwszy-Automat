@@ -1,3 +1,5 @@
+// test który wypełnia formularz
+
 package demo;
 
 import org.junit.After;
@@ -10,7 +12,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.List;
 
-// test który wypełnia formularz
 
 public class Wypelnianie {
     private WebDriver driver;
